@@ -2,6 +2,8 @@
 ***
 
 - [x] The Repo will Houses all my sql Project
+# Danny Ma Challenge
+This will compile solution to Danny Ma challenge [Check it out](https://github.com/qhibod/SQL-Projects/blob/main/Sql.md)
 
 ## Introduction
 This Project is going to be answering the danny ma sql first challenge that deals with Danny Ma dinner Resturant :shallow_pan_of_food:

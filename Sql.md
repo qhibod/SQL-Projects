@@ -1,4 +1,4 @@
-README
+- README
 introduction
 problem statement
 skills demonstrtated

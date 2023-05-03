@@ -1,8 +1,12 @@
 # SQL-Projects  
 ***
+My name is Quadri. I'm a data Enthsiast. i have worked on msql,postgres and mysql. im very confidence in sql. i love banana too.
 
 - [x] The Repo will Houses all my sql Project
-# Danny Ma Challenge
+### Danny Ma Challenge
+### kikiModi project
+### Gbagbos challenge
+
 This will compile solution to Danny Ma challenge [Check it out](https://github.com/qhibod/SQL-Projects/blob/main/Sql.md)
 
 ## Introduction

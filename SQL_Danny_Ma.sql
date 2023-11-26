@@ -78,15 +78,4 @@ GROUP BY customer_id
 /* 6.	what's the difference between truncate and Delete
 Delete is a Data maninuplation Language that Delete only the Records of A table while Truncate is an SQL syntax that delete all Records including the field names.
 
-*/README
-introduction
-problem statement
-skills demonstrtated
-data sourcing
-data transforming
-modelling
-Analysis& visualization
-conclusion and recomendation
-
-"& #"public sales" &"
 

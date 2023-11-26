@@ -3,11 +3,11 @@
 My name is Quadri. I'm a data Enthsiast. i have worked on msql,postgres and mysql. im very confidence in sql. i love banana too.
 
 - [x] The Repo will Houses all my sql Project
-### Danny Ma Challenge [Check it out](https://github.com/qhibod/SQL-Projects/blob/main/Danny%20Ma%20Challenge.md)
+### Danny Ma Challenge [Check it out](https://github.com/qhibod/SQL-Projects/blob/main/SQL_Danny_Ma.sql)
 ### kikiModi project
 ### Gbagbos challenge
 
-This will compile solution to Danny Ma challenge [Check it out](https://github.com/qhibod/SQL-Projects/blob/main/Sql.md)
+This will compile solution to Danny Ma challenge [Check it out](https://github.com/qhibod/SQL-Projects/blob/main/SQL_Danny_Ma.sql)
 
 ## Introduction
 This Project is going to be answering the danny ma sql first challenge that deals with Danny Ma dinner Resturant :shallow_pan_of_food:
